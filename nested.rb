@@ -115,7 +115,7 @@ def changing_alan
      
      puts programmer_hash[:alan_kay][:known_for]
 end
-changing_alan[:alan_kay][:known_for]
+changing_alan
 def adding_to_dennis
 	programmer_hash = 
  		{
