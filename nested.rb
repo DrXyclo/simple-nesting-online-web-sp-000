@@ -112,7 +112,7 @@ def changing_alan
        #  1==1
      programmer_hash[:alan_kay][:known_for] = "GUI"
      # binding.pry 
-     programmer_hash[:alan_kay][:known_for]
+     puts programmer_hash[:alan_kay][:known_for]
 end
 changing_alan
 def adding_to_dennis
