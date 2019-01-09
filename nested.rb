@@ -114,7 +114,7 @@ def changing_alan
      # binding.pry 
      programmer_hash[:alan_kay][:known_for]
 end
-
+changing_alan
 def adding_to_dennis
 	programmer_hash = 
  		{
