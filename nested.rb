@@ -133,7 +133,7 @@ def adding_to_dennis
         }
      }
  programmer_hash[:dennis_ritchie][:languages] << "Assembly"
-  programmer_hash[:dennis_ritchie][:languages][1]
+  return programmer_hash
 #binding.pry 
 #1==1
 end
